@@ -25,13 +25,24 @@ In order to increase the performance of the model, further research on contextua
 
 ## Process
 
-1. Data Gathering (JSon/PushShiftAPI)
+1. Data Gathering
+
+   A. WebAPI
+
+   B. PushShiftAPI
+
 2. Data Cleaning and Pre-processing
+
 3. EDA
+
 4. Baseline Accuracy
+
 5. Modelling
+
 6. Model Evaluation
+
 7. Limitation and Recommendation
+
 8. Conclusion
 
 ## Limitation & Recommendation
