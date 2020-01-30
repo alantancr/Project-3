@@ -1,4 +1,4 @@
-# Reddit
+# Reddit Classifier
 
 ## Problem Statement
 
